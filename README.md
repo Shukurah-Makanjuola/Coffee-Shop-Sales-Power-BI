@@ -17,5 +17,6 @@ Coffe Shop Sales Dashboard.png
 - Excel (data cleaning)
 
 ## Files in this Repository
-- CoffeeShopSales.pbix
+- Coffee Shop Sales Power BI.pbix
 - Coffe Shop Sales Dashboard.png
+
