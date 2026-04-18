@@ -3,7 +3,7 @@
 This project analyzes coffee shop sales data across three store locations to uncover revenue trends, product performance, and category insights.
 
 ## Dashboard Overview
-Coffe Shop Sales Dashboard.png
+Coffee shop sales dashboard.png
 
 ## Key Insights
 - $698.81K revenue from 149K sales
@@ -19,4 +19,5 @@ Coffe Shop Sales Dashboard.png
 ## Files in this Repository
 - Coffee Shop Sales Power BI.pbix
 - Coffe Shop Sales Dashboard.png
+- 
 
