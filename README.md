@@ -19,5 +19,5 @@ Coffee shop sales dashboard.png
 ## Files in this Repository
 - Coffee Shop Sales Power BI.pbix
 - Coffe Shop Sales Dashboard.png
-- 
+- Coffee shop sales summary.png
 
